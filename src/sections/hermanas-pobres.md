@@ -7,7 +7,7 @@ title: Hermanas pobres
     <div class="row">
       <div class="column">
         <h2>La fundación y San Damián</h2>
-        <img src="../imagenes/ClarayFrancisco.jpg" alt="san Francisco recibe a santa Clara" />
+        <img src="/imagenes/ClarayFrancisco.jpg" alt="san Francisco recibe a santa Clara" />
         <p>Con el corazón firme en la llamada de Dios, nuestra madre Santa Clara de Asís decidió abandonar todo para seguir a Cristo en pobreza y sencillez. La noche del Domingo de Ramos del año 1212, huyó en secreto de la casa paterna, dejando atrás su noble linaje y comodidades.</p>
         <p>San Francisco la esperaba en la Porciúncula, la pequeña capilla que él mismo había restaurado, corazón de la naciente Orden de los Hermanos Menores. Allí, San Francisco le cortó el cabello, signo de su consagración total a Cristo.</p>
         <p>Durante algunos días, Clara fue acogida en diversos monasterios para protegerla de la oposición de su familia. Finalmente, fue llevada por san Francisco a la iglesia de San Damián que había sido restaurado por él mismo tras escuchar la voz de Cristo crucificado: <em>Francisco, repara mi casa, que como ves, está en ruinas.</em> </p>
