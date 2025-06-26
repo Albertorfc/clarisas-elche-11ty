@@ -7,7 +7,7 @@ title: Inicio
     <div class="row">
       <div class="column">
         <h2>¡Paz y bien!</h2>
-        <img src="imagenes/paz-y-bien-ocre.png" alt="Paz y Bien" style="margin-bottom: 2rem; border-radius: 12px; max-width: 100%;"/>
+<img src="imagenes/paz-y-bien-ocre.png" alt="Paz y Bien" style="margin-bottom: 2rem; border-radius: 12px; width: 100%; height: 250px; object-fit: cover;" />
         <p>
         Bienvenidos a la página del monasterio de las Hermanas Clarisas de Elche, mujeres que siguen una vida de oración y desprendimiento. Desde la clausura, acompañamos con nuestra oración a la Iglesia y al mundo, ofreciendo un espacio de paz y luz para quienes buscan a Dios en lo profundo del corazón.
         </p>
