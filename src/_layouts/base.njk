@@ -2,17 +2,32 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>{{ title }}</title>
-  <link rel="stylesheet" href="/css/style.css" />
-  <base href="/" />
+  <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  {% include "header.njk" %}
-  {% include "nav.njk" %}
+  <header>
+    <h1>{{ title }}</h1>
+    <p>Monasterio de Santa Clara de Elche</p>
+  </header>
+
+  <nav>
+    {% include "nav.njk" %}
+  </nav>
+
   <main>
     {{ content | safe }}
   </main>
-  {% include "footer.njk" %}
+
+  <footer>
+    <p>&copy; 2025 Hermanas Clarisas de Elche – Convento de Santa Clara</p>
+    <p>
+      <a href="https://www.instagram.com/deliciasdesantaclaraelche/" target="_blank" style="text-decoration:none;color:#6b4e2f;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:20px;vertical-align:middle;margin-right:6px;">
+        @deliciasdesantaclaraelche
+      </a>
+    </p>
+  </footer>
 </body>
 </html>
