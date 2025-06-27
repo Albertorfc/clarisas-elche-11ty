@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+}
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  background-color: #a08966;
+  padding: 1rem;
+}
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
